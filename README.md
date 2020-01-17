@@ -1,17 +1,19 @@
 # Comics as Data: North America
-Michigan State University Special Collections is home to the largest collection of print comic in the world, holding more than 300,000 print comic book titles.
 
-This project employs the metadata from the collection to lean more about comics as both an industry and an art form: we aim to investigate how communities of comic creators in the United States context represent their subjects; how genre forms interact with and result from these less represented communities of comics creators; and, how these networks’ interactions are expressed in the visual language of the comic cover artwork from these communities.
+Collection as Data: North America is a data set drawn from MSU Library Comics Art Collection metadata. Home to the world’s largest comic book collection, developing cataloging metadata as a corpus to query issues of community and representation inspired this project. This dataset holds the opportunity to investigate hidden themes, locality, form, and aesthetics in North America comic culture.
 
 # Data Documentation
 
 # What we did
 
-# # Cleaning
+## Cleaning
 
+This data was cleaned using Google Sheets and OpenRefine. PArticular attention was paid to location, dates, and publishers.
 For more information about how the data was cleaned, see cleaning_decisions.md
 
-# # Reconciling
+## Reconciling
+
+We used Wikidata's reconciling service to match our publisher data to pages on wikidata. This allows us to track which comics were published by the same publisher regardless of name changes.
 
 # What files are what
 
