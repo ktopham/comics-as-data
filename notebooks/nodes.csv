@@ -1,0 +1,629 @@
+id,weight,state
+"San Francisco, CA",838,CA
+"Berkeley, CA",515,CA
+"Artesia, CA",1,CA
+"San Diego, CA",1400,CA
+"Timonium, MD",9,MD
+"Milwaukie, OR",1252,OR
+"Runnemede, NJ",53,NJ
+"New York, NY",7186,NY
+"Seattle, WA",959,WA
+"Anaheim, CA",45,CA
+"Burbank, CA",65,CA
+"Rantoul, IL",37,IL
+"La Jolla, CA",178,CA
+"Urbana, IL",33,IL
+"Plymouth, MI",76,MI
+"Congers, NY",10,NY
+"Fullerton, CA",91,CA
+"Mt Laurel, NJ",8,NJ
+"Derby, CT",4,CT
+"Vancouver, BC",76,BC
+"Kansas City, MO",461,MO
+"Wichita, KS",3,KS
+"Oskaloosa, IA",2,IA
+"Chicago, IL",320,IL
+"Irvine, CA",27,CA
+"Kent, OH",2,OH
+"Mexico City, DF",108,DF
+"Ontario, CA",39,CA
+"Chino, CA",106,CA
+"Montrose, CA",1,CA
+"Los Angeles, CA",660,CA
+"Cucamonga, CA",1,CA
+"Martinez, CA",2,CA
+"Saginaw, MI",1,MI
+"CA, CA",27,CA
+"Oakland, CA",49,CA
+"Atlanta, GA",46,GA
+"Providence, RI",9,RI
+"Hancock, MA",6,MA
+"Newbury Park, CA",122,CA
+"Westlake Village, CA",86,CA
+"Forestville, CA",122,CA
+"Palo Alto, CA",9,CA
+"Manitou Springs, CO",6,CO
+"Westport, CT",26,CT
+"Abington, PA",2,PA
+"Cleveland, OH",25,OH
+"Milwaukee, WI",25,WI
+"Northampton, MA",146,MA
+"Princeton, WI",100,WI
+"Boston, MA",97,MA
+"Montreal, QC",319,QC
+"Kansas City, KS",26,KS
+"Toronto, ON",165,ON
+"Iola, WI",7,WI
+"Gloucester, MA",1,MA
+"Richmond Hill, ON",13,ON
+"Skokie, IL",4,IL
+"West Hempstead, NY",10,NY
+"Calabasas, CA",16,CA
+"Marietta, GA",160,GA
+"Indianapolis, IN",10,IN
+"San Jose, CA",143,CA
+"Portland, OR",306,OR
+"St Clair Shores, MI",4,MI
+"Detroit, MI",77,MI
+"Rockville Centre, NY",40,NY
+"Lakeport, CA",1,CA
+"Battle Creek, MI",6,MI
+"Saint Joseph, MI",1,MI
+"East Los Angeles, CA",1,CA
+"Hawthorne, CA",13,CA
+"Scottsdale, AZ",37,AZ
+"Birmingham, AL",4,AL
+"Woodside, NY",3,NY
+"Wheeling, WV",37,WV
+"Haydenville, MA",15,MA
+"Glencoe, AL",2,AL
+"West Haven, CT",64,CT
+"Santa Cruz, CA",5,CA
+"Brooklyn, NY",109,NY
+"Florence, KY",11,KY
+"Neshannock, PA",31,PA
+"Minneapolis, MN",104,MN
+"Auburn, CA",41,CA
+"Racine, WI",288,WI
+"Albany, NY",23,NY
+"Toms River, NJ",12,NJ
+"Dripping Springs, TX",3,TX
+"Houston, TX",89,TX
+"Santa Barbara, CA",12,CA
+"Orange, CA",105,CA
+"Hamtramck, MI",28,MI
+"Farmington, MI",2,MI
+"Kalamazoo, MI",15,MI
+"MI, MI",37,MI
+"Buffalo, NY",24,NY
+"Las Vegas, NV",33,NV
+"West Carrollton, OH",2,OH
+"Akron, OH",33,OH
+"Wilton, CT",2,CT
+"Greenwich, CT",174,CT
+"Bedford, NY",3,NY
+"Port Chester, NY",1,NY
+"Hauppauge, NY",8,NY
+"Ann Arbor, MI",51,MI
+"Gainesville, FL",46,FL
+"Philadelphia, PA",87,PA
+"Cambridge, MA",36,MA
+"Bellingham, WA",16,WA
+"North Hollywood, CA",5,CA
+"Somerset, NJ",4,NJ
+"MA, MA",8,MA
+"Long Beach, CA",85,CA
+"Van Nuys, CA",5,CA
+"Thousand Oaks, CA",12,CA
+"Santa Rosa, CA",5,CA
+"Arlington, VA",11,VA
+"Anderson, IN",2,IN
+"Glenside, PA",2,PA
+"Ankeny, IA",2,IA
+"League City, TX",2,TX
+"West Milford, NJ",4,NJ
+"Austin, TX",49,TX
+"Washington, DC",38,DC
+"Doylestown, PA",1,PA
+"Dolyestown, PA",1,PA
+"Quincy, MA",1,MA
+"State College, PA",2,PA
+"Jefferson City, MO",1,MO
+"Rockville, MD",3,MD
+"Livonia, MI",47,MI
+"Lincoln, NE",6,NE
+"Mason, MI",1,MI
+"Woodbury, NY",2,NY
+"Bridgeport, CT",10,CT
+"Orlando, FL",6,FL
+"Timberlake, OH",2,OH
+"Mount Horeb, WI",9,WI
+"Tamarac, FL",4,FL
+"Park Forest, IL",23,IL
+"Hollywood, CA",65,CA
+"Baltimore, MD",41,MD
+"Raleigh, NC",65,NC
+"Yellow Springs, OH",1,OH
+"St Cloud, MN",1,MN
+"Troy, MI",1,MI
+"Easthampton, MA",11,MA
+"Lexington, KY",6,KY
+"Norfolk, VA",18,VA
+"Milford, CT",2,CT
+"Centerville, OH",6,OH
+"Newport Coast, CA",3,CA
+"Wilmette, IL",4,IL
+"Some Town, MI",2,MI
+"East Lansing, MI",188,MI
+"Glenn Dale, MD",4,MD
+"Stafford, VA",1,VA
+"Lanham, MD",14,MD
+"Falls Church, VA",3,VA
+"Agoura, CA",18,CA
+"New Castle, PA",7,PA
+"Lincolnwood, IL",8,IL
+"New Rochelle, NY",2,NY
+"Holbrook, MA",1,MA
+"Onamia, MN",1,MN
+"Stamford, CT",6,CT
+"Franklin Square, NY",5,NY
+"Glen Ridge, NJ",1,NJ
+"Wayne, NJ",1,NJ
+"Miamisburg, OH",5,OH
+"Mineola, NY",11,NY
+"Kitchener, ON",21,ON
+"Evanston, IL",9,IL
+"La Mesa, CA",10,CA
+"St-Laurent. Montreal, QC",2,QC
+"Deerfield, IL",3,IL
+"Garden City, NY",23,NY
+"Columbus, OH",85,OH
+"University Park, PA",6,PA
+"Dallas, GA",11,GA
+"Fredericksburg, VA",26,VA
+"San Antonio, TX",106,TX
+"Oldsmar, FL",14,FL
+"Menomonee Falls, WI",16,WI
+"Neshannock, MS",1,MS
+"Lancaster, PA",7,PA
+"Lachine, QC",2,QC
+"Reading, MA",3,MA
+"Colorado Springs, CO",7,CO
+"Garden Grove, CA",1,CA
+"San Juan Capistrano, CA",2,CA
+"Oceanside, CA",1,CA
+"Avon, MA",2,MA
+"Lansing, MI",23,MI
+"Phoenix, AZ",6,AZ
+"Jefferson, NC",39,NC
+"Haida Gwaii, BC",1,BC
+"Lilburn, GA",1,GA
+"Edina, MN",6,MN
+"Milford, OH",4,OH
+"Cincinnati, OH",37,OH
+"Richmond, VA",33,VA
+"Staten Island, NY",5,NY
+"St. Catharines, ON",2,ON
+"West Townshend, VT",15,VT
+"Townshend, VT",1,VT
+"Marina Del Rey, CA",2,CA
+"Thomasville, NC",5,NC
+"High Point, NC",1,NC
+"Norcross, GA",6,GA
+"San Rafael, CA",7,CA
+"Jackson, MS",80,MS
+"Hayward, CA",1,CA
+"Guerneville, CA",20,CA
+"Kingston, NY",1,NY
+"San Bernardino, CA",5,CA
+"Canoga Park, CA",5,CA
+"Culver City, CA",9,CA
+"Chesapeake, VA",11,VA
+"Old Tappan, NJ",37,NJ
+"Westwood, NJ",8,NJ
+"Uhrichsville, OH",13,OH
+"Miami, FL",13,FL
+"Madison, WI",12,WI
+"Swarthmore, PA",1,PA
+"Stevens Point, WI",2,WI
+"Eagan, MN",1,MN
+"New Haven, CT",9,CT
+"Scarborough, ON",2,ON
+"Ada, MI",1,MI
+"North Babylon, NY",1,NY
+"Virginia Beach, VA",2,VA
+"Stanhope, NJ",19,NJ
+"Unadilla, NY",4,NY
+"Silver Spring, MD",3,MD
+"West Plains, MO",2,MO
+"Acworth, GA",8,GA
+"Lebanon, VA",1,VA
+"Calumet City, IL",25,IL
+"Dayton, OH",4,OH
+"Tenayuca, DF",1,DF
+"Mamaroneck, NY",23,NY
+"NY, NY",3,NY
+"Levittown, PA",2,PA
+"Langhorne, PA",6,PA
+"Denver, CO",22,CO
+"Lakewood, CO",8,CO
+"Lawrenceville, NJ",2,NJ
+"Dover, NJ",31,NJ
+"Lake Geneva, WI",12,WI
+"Niles, IL",7,IL
+"Southern CA, CA",1,CA
+"Mountain Home, TN",2,TN
+"Wilmington, DE",3,DE
+"Oreland, PA",2,PA
+"El Cajon, CA",85,CA
+"Harrisburg, PA",7,PA
+"Winston-Salem, NC",3,NC
+"Allston, MA",1,MA
+"Fort Lee, NJ",16,NJ
+"Burlington, VT",1,VT
+"Winter Park, FL",1,FL
+"Scarsdale, NY",2,NY
+"Mission, KS",5,KS
+"Tucson, AZ",12,AZ
+"Irving, TX",22,TX
+"Olympia, WA",7,WA
+"Pullman, WA",11,WA
+"Butler, PA",2,PA
+"Tuscon, AZ",1,AZ
+"McCleary, WA",1,WA
+"Warren, MI",1,MI
+"Gainesville, TX",1,TX
+"Grand Rapids, MI",43,MI
+"Novato, CA",1,CA
+"Willow Springs, MO",2,MO
+"Birch Tree, MO",1,MO
+"Fullerton, NE",4,NE
+"Kearney, NE",2,NE
+"Plattsburgh, NY",1,NY
+"Santa Clara, CA",1,CA
+"Emeryville, CA",3,CA
+"Pittsburgh, PA",27,PA
+"Santa Ynez, CA",6,CA
+"Fairway, KS",1,KS
+"Norristown, PA",19,PA
+"Picton, ON",2,ON
+"Sanborn, NY",1,NY
+"Saddle Brook, NJ",2,NJ
+"Monterey Park, CA",1,CA
+"Westland, MI",18,MI
+"Fairfax, VA",4,VA
+"Berlin, NJ",4,NJ
+"New Orleans, LA",8,LA
+"Tampa, FL",2,FL
+"Jackson Heights, NY",12,NY
+"Greencastle, PA",6,PA
+"Carson, CA",18,CA
+"Gardena, CA",52,CA
+"Nashville, TN",8,TN
+"Des Moines, IA",10,IA
+"Valley Forge, PA",1,PA
+"Carmel, NY",1,NY
+"North Little Rock, AR",2,AR
+"Hoboken, NJ",8,NJ
+"Somerville, MA",20,MA
+"Lynden, ON",1,ON
+"El Sobrante, CA",3,CA
+"Leonia, NJ",2,NJ
+"Warwick, RI",1,RI
+"Fremont, CA",53,CA
+"Ithaca, NY",10,NY
+"St Paul, MN",3,MN
+"Fort Worth, TX",9,TX
+", 1",12, 1
+"Port Washington, WA",2,WA
+"Liverpool, WV",1,WV
+"Reedy, WV",1,WV
+"Peoria, AZ",2,AZ
+"Drexel Hill, PA",1,PA
+"Dallas, TX",40,TX
+"Westmont, IL",1,IL
+"Worthington, OH",4,OH
+"Calgary, AB",7,AB
+"Newark, OH",1,OH
+"Sillery, QC",4,QC
+"St-Augustin, QC",1,QC
+"Starkville, MS",2,MS
+"Glen Cove, NY",1,NY
+"North Mankato, MN",9,MN
+"Cross River, NY",3,NY
+"Brookfield, CT",4,CT
+"Wheaton, IL",10,IL
+"Mérida, YU",2,YU
+"Waco, TX",7,TX
+"Louisville, KY",8,KY
+"Great Neck, NY",2,NY
+"North Adams, MA",1,MA
+"Sylmar, CA",2,CA
+"Allen Park, MI",3,MI
+"Pacific Palisades, CA",1,CA
+"Rocklin, CA",1,CA
+"Bowling Green, OH",16,OH
+"OH, OH",14,OH
+"Southeastern, PA",1,PA
+"Farmingdale, NY",1,NY
+"Northridge, CA",1,CA
+"Albert Lea, MN",1,MN
+"Venice, CA",3,CA
+"Bremerton, WA",5,WA
+"Clallam Bay, WA",1,WA
+"Ottawa, ON",13,ON
+"Poughkeepsie, NY",12,NY
+"Claremont, CA",2,CA
+"Mankato, MN",22,MN
+"Santa Monica, CA",5,CA
+"Cambridge, ON",3,ON
+"San Juan, PR",11,PR
+"Puerto Rico, co",1,co
+"Murray Hill Station, NY",4,NY
+"Ontario, ON",1,ON
+"Romona, CA",1,CA
+"Clackamas, OR",1,OR
+"River Forest, IL",7,IL
+"Abingdon, MD",2,MD
+"Laguna Hills, CA",2,CA
+"Sauk City, WI",1,WI
+"Pasadena, CA",10,CA
+"Wilmington, VT",2,VT
+"Lockport, IL",1,IL
+"Champaign, IL",17,IL
+"Richmond, CA",5,CA
+"Lebanon, NJ",6,NJ
+"Sherman Oaks, CA",4,CA
+"Washington Square, NY",3,NY
+"KY, KY",3,KY
+"Morton Grove, IL",8,IL
+"Massapequa, NY",12,NY
+"Melville, NY",32,NY
+"Vancouver, WA",12,WA
+"Longwood, FL",8,FL
+"Redondo Beach, CA",2,CA
+"Sharon, CT",3,CT
+"Lombard, IL",2,IL
+"Los Gatos, CA",2,CA
+"Wilmington, NC",2,NC
+"Coshocton, OH",1,OH
+"Whitefish, MT",3,MT
+"Toluca Lake, CA",4,CA
+"Las Lunas, CA",1,CA
+"North Syracuse, NY",1,NY
+"Lee's Summit, MO",9,MO
+"Eugene, OR",18,OR
+"Hudson, MA",2,MA
+"Cleveland Heights, OH",3,OH
+"Youngstown, OH",2,OH
+"Middlebury, CT",1,CT
+"Gaylord, MI",1,MI
+"Omaha, NE",2,NE
+"Concord, CA",9,CA
+"Carrboro, NC",1,NC
+"Savannah, GA",8,GA
+"Ketchum, ID",1,ID
+"Renton, WA",1,WA
+"Carpinteria, CA",5,CA
+"Simi Valley, CA",2,CA
+"Somerville, NJ",1,NJ
+"Roswell, NM",1,NM
+"Prescott, AZ",41,AZ
+"Irvington, NJ",1,NJ
+"Bellevue, WA",6,WA
+"Petaluma, CA",5,CA
+"Secaucus, NJ",4,NJ
+"Naperville, IL",1,IL
+"Jersey City, NJ",17,NJ
+"Los Alamos, CA",1,CA
+"Los Alamitos, CA",3,CA
+"Waterloo, ON",2,ON
+"Park Ridge, IL",2,IL
+"Eagle River, AK",4,AK
+"Anchorage, AK",8,AK
+"Wasilla, AK",4,AK
+"Belmont, CA",3,CA
+"San Mateo, CA",1,CA
+"Charlottesville, VA",5,VA
+"Bronx, NY",4,NY
+"Forest Hills, NY",1,NY
+"Smithers, BC",2,BC
+"Canton, CT",1,CT
+"Asheville, NC",1,NC
+"Fort Washington, PA",7,PA
+"White River Junction, VT",9,VT
+"Markham, ON",2,ON
+"Owings Mills, MD",1,MD
+"Oak Park, IL",3,IL
+"Arcadia, CA",2,CA
+"Cupertino, CA",3,CA
+"Oxford, MI",1,MI
+"Beltsville, MD",1,MD
+"St Chico, CA",2,CA
+"Pleasantville, NY",5,NY
+"Norman, OK",2,OK
+"Hanover, NH",2,NH
+"Greenfield, WI",10,WI
+"Rochester, NY",10,NY
+"Durham, NC",8,NC
+"New Brunswick, NJ",12,NJ
+"Tustin, CA",4,CA
+"Danbury, CT",2,CT
+"South Hackensack, NJ",1,NJ
+"Morton Grove, MN",1,MN
+"Ansonia, CT",1,CT
+"Malden, MA",5,MA
+"Girard, KS",1,KS
+"Alahambra, CA",1,CA
+"Morgantown, WV",2,WV
+"College Station, TX",1,TX
+"Blairstown, NJ",1,NJ
+"Farmington Hills, MI",5,MI
+"Ottawa, IL",2,IL
+"Miguel Hidalgo, DF",3,DF
+"St Louis, MO",14,MO
+"Redmond, WA",3,WA
+"Hickory, NC",7,NC
+"Beverly Hills, CA",3,CA
+"Stuart, FL",2,FL
+"Whittier, CA",11,CA
+"FL, FL",2,FL
+"Mount Laurel, NJ",2,NJ
+"Rego Park, NY",4,NY
+"Chalfont, PA",1,PA
+"Northport, NY",15,NY
+"Capitola, CA",1,CA
+"St. Lambert, QC",4,QC
+"Reddick, IL",1,IL
+"Carbondale, IL",3,IL
+"Hoffman Estates, IL",1,IL
+"West Orange, NJ",1,NJ
+"Eureka, CA",3,CA
+"Moorestown, NJ",1,NJ
+"Davis, CA",4,CA
+"Sacramento, CA",9,CA
+"Beverly, MA",2,MA
+"Ridgewood, NY",1,NY
+"Parkville, MO",1,MO
+"Fayetteville, NC",1,NC
+"Haverhill, MA",1,MA
+"Guelph, ON",2,ON
+"Maple Ridge, BC",1,BC
+"Bethel, CT",2,CT
+"Harrison, ID",1,ID
+"Chicoutimi, QC",1,QC
+"Levis, QC",1,QC
+"South Pasadena, CA",1,CA
+"Andover, NJ",3,NJ
+"Tappen, BC",1,BC
+"Cassidy, BC",1,BC
+"Hollister, CA",1,CA
+"East Rockaway, NY",1,NY
+"Arcata, CA",1,CA
+"Centennial, CO",1,CO
+"East Orange, NJ",1,NJ
+"Syracuse, NY",10,NY
+"Narragansett, RI",9,RI
+"Kingston, RI",1,RI
+"Soldier, IA",1,IA
+"Hopewell, VA",1,VA
+"Ames, IA",3,IA
+"Greenville, SC",1,SC
+"Greenwich, NS",11,NS
+"Nueva York, NY",1,NY
+"Woodstock, VT",1,VT
+"Annapolis Junction, MD",6,MD
+"Torrance, CA",13,CA
+"Bristol, CT",2,CT
+"Remus, MI",3,MI
+"Mills, NC",1,NC
+"Englewood Cliffs, NJ",4,NJ
+"Adel, IA",2,IA
+"North Olmsted, OH",6,OH
+"N Olmsted, OH",1,OH
+"Encino, CA",4,CA
+"Northbrook, IL",5,IL
+"Coquitlam, BC",4,BC
+"Hadley, MA",1,MA
+"Iztapalapa, DF",1,DF
+"Scotch Plains, NJ",1,NJ
+"Elk Rapids, MI",4,MI
+"Manistee, MI",1,MI
+"Waltham, MA",1,MA
+"Lincoln, MA",1,MA
+"Forest Park, GA",2,GA
+"Millersville, MD",1,MD
+"Kennebunk, ME",4,ME
+"Jackson, MI",3,MI
+"South Holland, IL",1,IL
+",",2,","
+"Nevada City, CA",3,CA
+"Kempton, IL",1,IL
+"Plano, TX",1,TX
+"Wyoming, MI",2,MI
+"Fort Lauderdale, FL",2,FL
+"Pelham, NY",1,NY
+"Oak Forest, IL",9,IL
+"Fulton, CA",1,CA
+"Kearny, NJ",4,NJ
+"Richmond, BC",3,BC
+"Damascus, MD",2,MD
+"Bloomington, IN",7,IN
+"Flint, MI",32,MI
+"Swartz Creek, MI",1,MI
+"Garland, TX",5,TX
+"Norwalk, CT",8,CT
+"Boulder, CO",11,CO
+"Louisville, CO",1,CO
+"San Anselmo, CA",5,CA
+"New Milford, CT",1,CT
+"Shorewood, WI",2,WI
+"Waukesha, WI",2,WI
+"Hillsboro, OR",1,OR
+"Wolfville, NS",4,NS
+"Hamburg; Los Angeles, CA",6,CA
+"Oklahoma City, OK",2,OK
+"Kalispell, MT",4,MT
+"Billings, MT",2,MT
+"Berthoud, CO",1,CO
+"Grand Junction, CO",1,CO
+"Grass Valley, CA",4,CA
+"Ypsilanti, MI",3,MI
+"Wayne County, MI",2,MI
+"East Moline, IL",1,IL
+"Pomona, CA",1,CA
+"Lakeside, OR",1,OR
+"Palos Park, IL",2,IL
+"Southport, CT",3,CT
+"Gloucester, ON",1,ON
+"Blue Ridge Summit, PA",2,PA
+"Fallbrook, CA",2,CA
+"Toledo, OH",7,OH
+"Crawfordsville, AR",2,AR
+"Memphis, TN",2,TN
+"Houghton, MI",1,MI
+"Placitas, NM",2,NM
+"Columbia, SC",2,SC
+"Cape Neddick, ME",1,ME
+"College Park, MD",2,MD
+"Greenville, NY",1,NY
+"Kerhonkson, NY",1,NY
+"Norwich, VT",1,VT
+"Long Island City, NY",4,NY
+"Roy, UT",1,UT
+"Newburgh, NY",1,NY
+"Oak Creek, WI",1,WI
+"Hamilton, ON",2,ON
+"Teaneck, NJ",1,NJ
+"Florence, AL",3,AL
+"Salinas, CA",2,CA
+"Springfield, MA",1,MA
+"Halesite, NY",1,NY
+"Horsham, PA",5,PA
+"Stanford, CA",4,CA
+"Reading, PA",1,PA
+"Northlake, IL",1,IL
+"Middletown, CT",3,CT
+"West Warwick, RI",1,RI
+"Cedarhurst, NY",1,NY
+"North Cambridge, MA",1,MA
+"N Cambridge, MA",1,MA
+"Valley Stream, NY",4,NY
+"North Riverside, IL",2,IL
+"Mesa, AZ",2,AZ
+"Taylor, AZ",1,AZ
+"Fort Wayne, IN",4,IN
+"West Palm Beach, FL",5,FL
+"Delray Beach, FL",2,FL
+"South Windsor, CT",1,CT
+"Windsor, CT",1,CT
+"Los Alamos, NM",1,NM
+"Wytheville, VA",1,VA
+"St. Laurent, QC",1,QC
+"San Leandro, CA",1,CA
+"Hunt Valley, MD",1,MD
+"Brockton, MA",1,MA
+"Port Townsend, WA",4,WA
+"Long Beach, NY",1,NY
+"Newark, NJ",8,NJ
+"Bend, OR",1,OR
