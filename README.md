@@ -2,6 +2,8 @@
 
 Collection as Data: North America is a data set drawn from MSU Library Comics Art Collection metadata. Home to the world’s largest comic book collection, developing cataloging metadata as a corpus to query issues of community and representation inspired this project. This dataset holds the opportunity to investigate hidden themes, locality, form, and aesthetics in North America comic culture.
 
+The raw data are located at MARC_data_raw folder as .csv files. For column headings explanation, see column_headings.md.
+
 # Data Documentation
 
 # What we did
