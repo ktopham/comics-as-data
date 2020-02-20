@@ -20,7 +20,7 @@ We used Wikidata's reconciling service to match our publisher data to pages on w
 # What files are what
 
 # How can I contribute?
-We encourage you to download the dataset, use it and share the results. We interested in the ways scholars might be able to utilize the dataset to imagine comics.
+We encourage you to download the dataset, work with it, and share the results.
 # Team
 
 Scout Calvert
