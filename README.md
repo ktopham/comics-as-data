@@ -10,7 +10,7 @@ The raw data are located at MARC_data_raw folder as .csv files. For column headi
 
 ## Cleaning
 
-This data was cleaned using Google Sheets and OpenRefine. PArticular attention was paid to location, dates, and publishers.
+This data was cleaned using Google Sheets and OpenRefine. Particular attention was paid to location, dates, and publishers.
 For more information about how the data was cleaned, see cleaning_decisions.md
 
 ## Reconciling
@@ -20,7 +20,7 @@ We used Wikidata's reconciling service to match our publisher data to pages on w
 # What files are what
 
 # How can I contribute?
-
+We encourage you to download the dataset, use it and share the results. We interested in the ways scholars might be able to utilize the dataset to imagine comics.
 # Team
 
 Scout Calvert
