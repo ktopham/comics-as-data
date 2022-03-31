@@ -18,6 +18,9 @@ For more information about how the data was cleaned, see cleaning_decisions.md
 We used Wikidata's reconciling service to match our publisher data to pages on wikidata. This allows us to track which comics were published by the same publisher regardless of name changes.
 
 # What files are what
+comics_as_data_north_america_2020-01-20_Cleaned.csv is the cleaned dataset, but does not include any reconciliation data. 
+comics_as_data_north_america_2020-01-20_reconciled_full.csv is the cleaned data with the reconciled values and QIDs.
+comics_as_data_north_america_2020-01-20_reconciled_full.openrefine.tar.gz is a copy of the OpenRefine project, which includes the cleaned data and all reconciliation data. 
 
 # How can I contribute?
 We encourage you to download the dataset, work with it, and share the results.
