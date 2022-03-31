@@ -23,9 +23,9 @@ We used Wikidata's reconciling service to match our publisher data to pages on w
 We encourage you to download the dataset, work with it, and share the results.
 # Team
 
-Scout Calvert
-Julian Chambliss
-Devin Higgins
-Ranti Junus
-Kristen Mapes
-Kate Topham
+-Scout Calvert
+-Julian Chambliss
+-Devin Higgins
+-Ranti Junus
+-Kristen Mapes
+-Kate Topham
